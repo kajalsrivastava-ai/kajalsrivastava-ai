@@ -12,27 +12,23 @@ I enjoy combining business knowledge with modern AI technologies to build practi
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjsri2015@gmail.com)
+💼 **LinkedIn:** https://www.linkedin.com/in/kajal-srivastava-694b79121/
+
+📧 **Email:** kjsri2015@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Languages:** Python, SQL
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Analytics:** Tableau, Power BI, BigQuery
 
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+**AI & ML:** LangChain, Scikit-learn, XGBoost, MLflow
+
+**Frameworks:** FastAPI, Streamlit
+
+**Cloud:** Google Cloud Platform
 
 ---
 
